@@ -1,4 +1,4 @@
-pip install moviepy
+
 import streamlit as st
 import os
 from moviepy.editor import *

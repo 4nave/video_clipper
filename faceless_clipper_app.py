@@ -1,7 +1,7 @@
 
 import streamlit as st
 import os
-from moviepy.editor import 
+from moviepy.editor import *
 import whisper
 import tempfile
 import zipfile
